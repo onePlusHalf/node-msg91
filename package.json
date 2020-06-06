@@ -1,0 +1,27 @@
+{
+  "name": "node-msg91",
+  "version": "1.0.0",
+  "description": "Send Message/Otp using MSG91 API's in NODE",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncannyChora/node-msg91.git"
+  },
+  "keywords": [
+    "node",
+    "sms",
+    "otp",
+    "msg91"
+  ],
+  "author": "uncannyChora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uncannyChora/node-msg91/issues"
+  },
+  "homepage": "https://github.com/uncannyChora/node-msg91#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "msg91": "0.0.6"
+  }
+}
