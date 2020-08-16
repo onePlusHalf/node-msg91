@@ -1,5 +1,5 @@
 # node-msg91
-Send Message/Otp using MSG91 API's in NODE
+How to send Message/Otp using MSG91 API's in NodeJs
 
 ## How it works
  - `index.js` exposes `sendOtp` method which takes in following arguments : 
